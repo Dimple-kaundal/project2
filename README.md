@@ -1,3 +1,3 @@
 # new project
 this project is created from local
-dimple kaundal
+ created by dimple kaundal
